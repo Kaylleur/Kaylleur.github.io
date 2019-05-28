@@ -3,8 +3,8 @@
   "username": "Kaylleur",
   "name": "Thomas Brunet",
   "userimg": "https://avatars2.githubusercontent.com/u/5547158?v=4",
-  "sort": "created",
-  "order": "asc",
+  "sort": "star",
+  "order": "desc",
   "includeFork": true,
   "theme": "light.css"
  }
